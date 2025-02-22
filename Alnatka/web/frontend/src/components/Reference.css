@@ -1,0 +1,32 @@
+.ref-all{
+    display: flex;
+    align-items: center;
+    background: linear-gradient(rgba(0,0,0,0.7),rgba(0,0,0,0.7));
+    border: 2px solid black;
+    color: aliceblue;
+    margin-top: 180px;
+}
+
+.ImgRef{
+width: 40px;
+border-radius: 50px;
+margin-left: 18px;
+}
+
+.name{
+    position:relative;
+    text-align: justify;
+    margin: -25px 10px 5px 60px;
+    
+    font-size: 12px;
+    padding: 2px 5px 2px 5px;
+}
+
+.ref{
+    position: relative;
+    text-align: justify;
+    
+    font-size: 10px;
+    margin: 8px 10px 15px 60px
+}
+

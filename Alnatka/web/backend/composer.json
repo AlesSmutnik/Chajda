@@ -1,0 +1,17 @@
+{
+    "name": "ales/backend",
+    "description": "contact form my app",
+    "type": "libraty",
+    "autoload": {
+        "psr-4": {
+            "Ales\\Backend\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Ales"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {}
+}
