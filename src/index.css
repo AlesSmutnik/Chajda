@@ -1,0 +1,16 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.body-app{
+  background-image:linear-gradient(rgb(0, 0, 0), rgba(0, 0, 0, 0.137)), url('./components/imgs/IMG_3023.JPG');
+  background-color: rgb(95, 92, 87);
+  background-repeat: no-repeat;
+  background-size: contain;
+  background-attachment: fixed;
+  background-position: right;
+} 
+ /* respons max-width media  only screen  */
+ /* @media only screen and( max-width:1340px ){} */

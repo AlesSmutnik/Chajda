@@ -1,0 +1,26 @@
+/* .row{    
+    max-width: 100%;
+    margin: 0 auto;
+} */
+
+.description-home-page{
+   
+    margin-left: 90px;
+    margin-right: 90px;
+    padding-top: 20px;
+    font-size: 15px;
+    text-align: center;
+    font-style: inherit;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.link-odkaz{
+    text-decoration: none;
+    color: rgb(176, 180, 113);
+    margin-left: 5px;
+    font-size: 20px;
+    font-style: normal;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.link-odkaz:hover{
+    cursor: pointer;
+}
