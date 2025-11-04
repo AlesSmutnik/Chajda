@@ -1,4 +1,3 @@
-import React from 'react'
 import "./HomePage.css"
 // import "../components/Grid.css"
 // import "../components/Qeries.css"

@@ -4,7 +4,7 @@ import Home from './pages/HomePage';
 import Contact from './pages/ContactForm';
 import InfoPrice from './pages/InfoPrice';
 import SharedLayout from './components/SharedLayout';
-import 'bootstrap/dist/css/bootstrap.min.css';
+
 
 
 const App = () => {
